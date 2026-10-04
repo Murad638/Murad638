@@ -1,23 +1,23 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](muradkhalilov.io)
 <h1 align="center">Hi 👋, I'm Murad Khalilov</h1>
-<h3 align="center">A passionate Data Analyst from Azerbaijan working in Estonia</h3>
+<h3 align="center">A passionate Data Engineer from Azerbaijan working in Estonia</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad638&label=Profile%20views&color=0e75b6&style=flat" alt="murad638" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murad638" alt="murad638" /></a> </p>
 
-- 🔭 I’m currently working on **Webscrapping**
+- 🔭 I’m currently working on **Cloud technologies**
 
-- 🌱 I’m currently learning **Data science/AI**
+- 🌱 I’m currently learning **Modern Data platforms**
 
-- 👯 I’m looking to collaborate on **Machine learning models**
+- 👯 I’m looking to collaborate on **Data engineering models**
 
-- 🤝 I’m looking for help with **Machine learning models**
+- 🤝 I’m looking for help with **Data engineering models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Murad638](https://github.com/Murad638)
 
-- 💬 Ask me about **R, Python, SQL, Shiny, Dash**
+- 💬 Ask me about **R, Python, SQL, Apache Airflow, Shiny, Dash**
 
 - 📫 How to reach me **muradxelilov638@gmail.com**
 
